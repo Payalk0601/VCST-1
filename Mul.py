@@ -8,7 +8,7 @@ def get_number(prompt):
 
 # Taking input from the user
 num1 = get_number("Enter first number - ")
-num2 = get_number("Enter second number  ")
+num2 = get_number("Enter third number  ")
 
 # Multiplying the numbers
 product = num1 * num2
