@@ -7,8 +7,8 @@ def get_number(prompt):
             print("Invalid input! Please enter a valid number.")  # If invalid, show an error and prompt again
 
 # Taking input from the user
-num1 = get_number("Enter first number: ")
-num2 = get_number("Enter second number: ")
+num1 = get_number("Enter first number - ")
+num2 = get_number("Enter second number - ")
 
 # Multiplying the numbers
 product = num1 * num2
